@@ -1,1 +1,1 @@
-Code like there is no tomorrow.Programming is just Googling the same thing over and over again.Code is read more often than it is written.There’s no such thing as a simple software project.neutron.py
+Programming is like writing a book… except if you miss a single comma, the whole thing crashes.Code like there is no tomorrow.Programming is just Googling the same thing over and over again.Code is read more often than it is written.There’s no such thing as a simple software project.neutron.py
